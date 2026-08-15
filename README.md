@@ -5,6 +5,10 @@ Aplicação web desenvolvida com HTML, CSS e JavaScript para conversão de valor
 ## 📸 Prévia
 ![Conversor de Moedas](./assets/preview.png)
 
+## 🚀 Demonstração
+
+[🔗 Acessar o projeto](https://conversor-de-moedas-azure.vercel.app/)
+
 ## 🚀 Funcionalidades
 
 - Conversão do Real Brasileiro para:
